@@ -1,0 +1,626 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad/2017/summer/yukih1/Labs/lab-1/sim
+vALU128Bit_tb
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1505146636
+!i10b 1
+!s100 acU73Vi:FDS;Kb4Y46iGO2
+I;XSRijSDNm<NDM6<_J;n?3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU128Bit_tb_sv_unit
+S1
+R0
+w1504830781
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/ALU128Bit_tb.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/ALU128Bit_tb.sv
+L0 1
+Z4 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1505146636.000000
+Z6 !s107 /users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/Instruction_Memory_tb.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/clk_tb.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/Program_Counter_tb.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/processor_tb.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/ALU128Bit_tb.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/ALU32Bit_tb.sv|
+Z7 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/tb.cfg|-work|work|-timescale|1ps/1ps|
+!i113 0
+Z8 o-quiet -sv -work work -timescale 1ps/1ps -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@l@u128@bit_tb
+vALU32Bit_tb
+R1
+R2
+!i10b 1
+!s100 8L>3mX2Q^S9U:hccf[aQ;3
+I^V9KB@N8Vbn7EAMOo]L=j0
+R3
+!s105 ALU32Bit_tb_sv_unit
+S1
+R0
+w1505026036
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/ALU32Bit_tb.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/ALU32Bit_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@a@l@u32@bit_tb
+valu_128bitex
+R1
+R2
+!i10b 1
+!s100 YTTioJN07]G8lUR^kY0?X2
+IhKYbJhMDOo<92=W84<=AZ2
+R3
+!s105 _128BitALU_EX_sv_unit
+S1
+R0
+w1504940303
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/128BitALU_EX.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/128BitALU_EX.sv
+Z9 L0 16
+R4
+r1
+!s85 0
+31
+R5
+Z10 !s107 /users/ugrad/2017/summer/yukih1/Labs/lab-1/design/test.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/clk.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Register_File.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Data_Memory.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Sign_Extend.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/processor.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Controller.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Instruction_Memory.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Program_Counter.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/128BitALU_EX.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/OnebitALU_128.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux8to1_32bit.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux2to1_32bit.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux4to1_32bit.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/32BitALU_EX.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/OnebitALU.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/fa.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux8to1.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux4to1.sv|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux2to1.sv|
+Z11 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/rtl.cfg|-timescale|1ps/1ps|
+!i113 0
+Z12 o-quiet -sv -timescale 1ps/1ps -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu_32bitex
+R1
+R2
+!i10b 1
+!s100 f]LWjX]Rn]5@ghBNT@ZYV1
+IO3K]baaSF39V_`ezWj^<60
+R3
+!s105 _32BitALU_EX_sv_unit
+S1
+R0
+w1504940016
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/32BitALU_EX.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/32BitALU_EX.sv
+R9
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vclk_tb
+R1
+R2
+!i10b 1
+!s100 9<KPiEP]Kg:oGLoW5VO<^3
+IYR0a0:lT61KNO;Z[9eEBB3
+R3
+!s105 clk_tb_sv_unit
+S1
+R0
+w1505019171
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/clk_tb.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/clk_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vclock_gen
+R1
+R2
+!i10b 1
+!s100 LnhJj1aYoPVdJazDWkcG31
+Ic_NOag0BUHP>4HZbLhiBA1
+R3
+!s105 clk_sv_unit
+S1
+R0
+w1505019467
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/clk.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/clk.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vcontroller
+R1
+R2
+!i10b 1
+!s100 lhK`YI6I5F8HYWAJ8fXZb0
+IkefoWbMfT14<OadlU^b<Z0
+R3
+!s105 Controller_sv_unit
+S1
+R0
+w1505108863
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Controller.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Controller.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vData_Memory
+R1
+R2
+!i10b 1
+!s100 EJN^Y5>dmLINYjLjFccWd2
+IkoCVVbC9d`ZHi=K=PXX[b3
+R3
+!s105 Data_Memory_sv_unit
+S1
+R0
+w1505108545
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Data_Memory.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Data_Memory.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+n@data_@memory
+vfulladder
+R1
+R2
+!i10b 1
+!s100 Jn_lc2`>3U1A2cT]>kacP1
+ITP3U<b7^>nF_8kO1NK`<E0
+R3
+!s105 fa_sv_unit
+S1
+R0
+Z13 w1503819621
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/fa.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/fa.sv
+Z14 L0 17
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vInstruction_Memory
+R1
+R2
+!i10b 1
+!s100 zi6PVl8=8<cddAMJ3NYnd2
+Ijc6nWnHCcojbc:G3noHmC2
+R3
+!s105 Instruction_Memory_sv_unit
+S1
+R0
+w1505113062
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Instruction_Memory.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Instruction_Memory.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+n@instruction_@memory
+vInstruction_Memory_tb
+R1
+R2
+!i10b 1
+!s100 IUMD5P44[]4o4GW`iogfj0
+I3Z7S`9oknL>Ocab2VO`OO1
+R3
+!s105 Instruction_Memory_tb_sv_unit
+S1
+R0
+w1505102122
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/Instruction_Memory_tb.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/Instruction_Memory_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@instruction_@memory_tb
+vmux2to1
+R1
+R2
+!i10b 1
+!s100 hgmk:WU9=7AionBYZjF]B1
+IJCj^W[7dKDP@f1m?EWhX>2
+R3
+!s105 mux2to1_sv_unit
+S1
+R0
+R13
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux2to1.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux2to1.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vmux2to1_32bit
+R1
+R2
+!i10b 1
+!s100 >Z?SMY7S6Qz3O<XHlKHmZ1
+IW?JV67bX[TShLzDBGXzbE3
+R3
+!s105 mux2to1_32bit_sv_unit
+S1
+R0
+w1505111674
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux2to1_32bit.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux2to1_32bit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vmux4to1
+R1
+R2
+!i10b 1
+!s100 3[AeaWF[@8^OY0nPdbVW00
+ITUz5Ylza[]NATkhiJZIZ]0
+R3
+!s105 mux4to1_sv_unit
+S1
+R0
+R13
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux4to1.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux4to1.sv
+R14
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vmux4to1_32bit
+R1
+R2
+!i10b 1
+!s100 e]<ehTg6Gf:m^ea48X0X73
+IXWP@Veh8:2lXm^DGVVkBi1
+R3
+!s105 mux4to1_32bit_sv_unit
+S1
+R0
+w1504933393
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux4to1_32bit.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux4to1_32bit.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vmux8to1
+R1
+R2
+!i10b 1
+!s100 5e=HdZQQg@<]gBWP;Ykhh3
+I7mZ[0W5]XkPc^fDVUC7Ib2
+R3
+!s105 mux8to1_sv_unit
+S1
+R0
+R13
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux8to1.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux8to1.sv
+R14
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vmux8to1_32bit
+R1
+R2
+!i10b 1
+!s100 fm1d5Sgm@f4OI]>M@_EZ=1
+IS5oHaGQ?ZWW^55V9C@S<[1
+R3
+!s105 mux8to1_32bit_sv_unit
+S1
+R0
+w1504933639
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux8to1_32bit.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/mux8to1_32bit.sv
+R14
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vOnebitALU
+R1
+R2
+!i10b 1
+!s100 ;8II2FPIdd5@D_67TZ7==0
+Ij<kAB=1Zhi2NPZeoUkJ<n0
+R3
+!s105 OnebitALU_sv_unit
+S1
+R0
+w1504942319
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/OnebitALU.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/OnebitALU.sv
+Z15 L0 18
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+n@onebit@a@l@u
+vOnebitALU_128
+R1
+R2
+!i10b 1
+!s100 R[ON5hULVIYEOfM^Y0naN2
+Ikz[zW@D<lkOHd>Q9^3aj]3
+R3
+!s105 OnebitALU_128_sv_unit
+S1
+R0
+w1504940286
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/OnebitALU_128.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/OnebitALU_128.sv
+R15
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+n@onebit@a@l@u_128
+vprocessor
+R1
+R2
+!i10b 1
+!s100 jUWQ3hbPk8L4E4EJcC1LS1
+I2]Nh_DzGoQPAzjj12ZVe?1
+R3
+!s105 processor_sv_unit
+S1
+R0
+w1505109380
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/processor.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/processor.sv
+R15
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+vprocessor_tb
+R1
+R2
+!i10b 1
+!s100 o6OB7h?0];e>`f_aR=m>50
+IcC8?^a>JS8n:P5S^5[ddk2
+R3
+!s105 processor_tb_sv_unit
+S1
+R0
+w1505121067
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/processor_tb.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/processor_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vProgram_Counter
+R1
+R2
+!i10b 1
+!s100 4lYob0P`9=?B4gJgWcG1i1
+I54S<G3H1WD@RRX9^<WmYk0
+R3
+!s105 Program_Counter_sv_unit
+S1
+R0
+w1505120155
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Program_Counter.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Program_Counter.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+n@program_@counter
+vProgram_Counter_tb
+R1
+R2
+!i10b 1
+!s100 F=b]deQ1W_?fW4?E7f3IT0
+I1dPJ1mY_9ggk9TjPHB`602
+R3
+!s105 Program_Counter_tb_sv_unit
+S1
+R0
+w1505116939
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/Program_Counter_tb.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/verif/Program_Counter_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@program_@counter_tb
+vRegister_File
+R1
+R2
+!i10b 1
+!s100 HhSQIbX1Xj:0=_eg`[[a20
+IZ7@=]N<>LUKi;Tjd`1E?;1
+R3
+!s105 Register_File_sv_unit
+S1
+R0
+w1505108712
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Register_File.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Register_File.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+n@register_@file
+vSign_Extend
+R1
+R2
+!i10b 1
+!s100 H_6>bA:9iGeOefi<kUT7T0
+IlTWOI4HNo@;i6jGehiJ<;2
+R3
+!s105 Sign_Extend_sv_unit
+S1
+R0
+w1505109449
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Sign_Extend.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/Sign_Extend.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12
+n@sign_@extend
+Ttb_top_opt
+!s110 1505146637
+VE3__NVj]kYPK9l1?9]h`<1
+04 12 4 work processor_tb fast 0
+o-quiet +acc -work work
+ntb_top_opt
+OL;O;10.4c;61
+vtest
+R1
+R2
+!i10b 1
+!s100 G3_4^4WEbR=b4c^b>QZm51
+IC_WOXSY<R?AYdEZIXIg7I2
+R3
+!s105 test_sv_unit
+S1
+R0
+w1504731313
+8/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/test.sv
+F/users/ugrad/2017/summer/yukih1/Labs/lab-1/design/test.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 0
+R12

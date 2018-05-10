@@ -1,0 +1,11 @@
+module example_5();
+
+	logic [5:0] data1 = 6'b111000;
+	logic [5:0] data2 = 6'b1xxz00;
+	logic [5:0] data3 = 6'b1xxz00;
+	
+	initial begin
+		$system("clear; echo; echo");
+		
+		$display("data1 == data
+	
